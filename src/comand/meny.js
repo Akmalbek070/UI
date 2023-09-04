@@ -1,0 +1,1 @@
+export {default as Meny} from './meny/meny'
